@@ -12,9 +12,10 @@
     Privacy and Ethical Considerations
 ```
 ``
-Whoever the person is, if you're reading this papers mentioned here.
-Kindly do check every paper's references to get wide understanding of the topics.
-THANK YOU :)
+NOTE:
+        Whoever the person is, if you're reading this papers mentioned here.
+        Kindly do check every paper's references to get wide understanding of the topics.
+        THANK YOU :)
 ``
 [Speech 1](https://arxiv.org/pdf/2010.04950.pdf)  
 [Speech 2](https://arxiv.org/pdf/1910.07047.pdf)  
@@ -28,3 +29,10 @@ THANK YOU :)
 [Speech 10](https://arxiv.org/pdf/2204.08720.pdf)  
 [OpenAi doc for TTS](https://platform.openai.com/docs/guides/text-to-speech)  
 [All OpenAI models](https://platform.openai.com/docs/models)
+
+### References
+[CONSENSUS AI](https://consensus.app/search/)  
+[ARXIV FOR PDFS RESEARCH PAPER'S](https://arxiv.org/)  
+[GOOGLE SCHOLAR](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)  
+### And whatever the heck you find viable for researching on documentations.
+### Fuck you and Thank you!!
