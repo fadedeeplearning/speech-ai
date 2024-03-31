@@ -35,4 +35,4 @@ NOTE:
 [ARXIV FOR PDFS RESEARCH PAPER'S](https://arxiv.org/)  
 [GOOGLE SCHOLAR](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)  
 ### And whatever the heck you find viable for researching on documentations.
-### Good Luck bitch!!!!!!
+### Good Luck!!!!!!
