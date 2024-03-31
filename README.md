@@ -1,4 +1,4 @@
-# speech-ai
+<center># speech ai</center>
 ### All Topics Related To Speech In AI    
 ```
 ## Part's of branches in Speech For AI
@@ -30,9 +30,9 @@ NOTE:
 [OpenAi doc for TTS](https://platform.openai.com/docs/guides/text-to-speech)  
 [All OpenAI models](https://platform.openai.com/docs/models)
 
-### References
+### References  
 [CONSENSUS AI](https://consensus.app/search/)  
 [ARXIV FOR PDFS RESEARCH PAPER'S](https://arxiv.org/)  
 [GOOGLE SCHOLAR](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)  
 ### And whatever the heck you find viable for researching on documentations.
-### Fuck you and Thank you!!
+### Good Luck bitch!!!!!!
