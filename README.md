@@ -11,19 +11,20 @@
     Multimodal Speech Processing
     Privacy and Ethical Considerations
 ```
+``
+Whoever the person is, if you're reading this papers mentioned here.
+Kindly do check every paper's references to get wide understanding of the topics.
+THANK YOU :)
+``
 [Speech 1](https://arxiv.org/pdf/2010.04950.pdf)  
 [Speech 2](https://arxiv.org/pdf/1910.07047.pdf)  
 [Speech 3](https://arxiv.org/pdf/1902.06927.pdf)  
 [Speech 4](https://arxiv.org/pdf/2311.11116.pdf)  
 [Speech 5](https://d1wqtxts1xzle7.cloudfront.net/3436726/Dutoit-libre.pdf?1390831902=&response-content-disposition=inline%3B+filename%3DHigh_Quality_Text_to_Speech_Synthesis_An.pdf&Expires=1711910668&Signature=XKmJTH5hjfXRsHJyAAGTrTOz~V0eLRToIU7m-fhW2rO64PipqdDLwz6IJDKyMqFVbL8L84fz6G9bT5DuTdt9sdHN73VlwP4VScA~0uXjPfUdp3jIUmmTXzcJfbsEDonmAUc9IKllgJDk16HgdpLpmaRWIlPgTHab2bYYd-2v5QyUzIi1gx1bhAKimN18dDITkxm4vtw7I~l85HjRLLDQYvxwfIT83QHxq-tBRwrJjC3FBrjF~pfJJsOKnBAscz~4YJjWDbAAo6Eu98-GnA5rbzhRc89y7-mF01du7JZ0DJ4cf6ei1EmlLNCc6ORXm3WOxBxb6cQSJfuOc4t8q8h7lQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  
 [Speech 6](https://arxiv.org/pdf/2403.13353.pdf)  
-[Speech 7]()  
-[Speech 8]()  
-[Speech 9]()  
-[Speech 10]()  
-[Speech 11]()  
-[Speech 12]()  
-[Speech 13]()  
-[Speech 14]()  
-[Speech 15]()  
+[Speech 7](https://arxiv.org/pdf/2309.08255.pdf)  
+[Speech 8](https://arxiv.org/pdf/2306.15687.pdf)  
+[Speech 9](https://arxiv.org/pdf/2305.16107.pdf)  
+[Speech 10](https://arxiv.org/pdf/2204.08720.pdf)  
 [OpenAi doc for TTS](https://platform.openai.com/docs/guides/text-to-speech)  
+[All OpenAI models](https://platform.openai.com/docs/models)
