@@ -1,16 +1,17 @@
 # speech-ai
 All paper's related to speech  
 ```
-Speech Recognition
-Natural Language Understanding (NLU)
-Text-to-Speech (TTS) Synthesis
-Voice Biometrics
-Emotion Recognition
-Speaker Diarization
-Multimodal Speech Processing
-Privacy and Ethical Considerations
+## Part's of branches in Speech For AI
+    Speech Recognition
+    Natural Language Understanding (NLU)
+    Text-to-Speech (TTS) Synthesis
+    Voice Biometrics
+    Emotion Recognition
+    Speaker Diarization
+    Multimodal Speech Processing
+    Privacy and Ethical Considerations
 ```
-[Speech 1](https://arxiv.org/pdf/2010.04950.pdf 'Speech 1')  
+[Speech 1](https://arxiv.org/pdf/2010.04950.pdf)  
 [Speech 2](https://arxiv.org/pdf/1910.07047.pdf)  
 [Speech 3](https://arxiv.org/pdf/1902.06927.pdf)  
 [Speech 4]()  
